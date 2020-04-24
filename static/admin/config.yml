@@ -7,7 +7,7 @@ public_folder: /assets
 
 collections:
   - label: Pages
-    extension: markdown
+    format: markdown
     name: pages
     files:
       - label: Home
