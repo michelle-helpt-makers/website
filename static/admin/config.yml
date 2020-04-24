@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: michelle-helpt-makers/website
+media_folder: static/assets
+public_folder: /assets
