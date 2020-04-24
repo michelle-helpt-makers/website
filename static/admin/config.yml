@@ -7,13 +7,11 @@ public_folder: /assets
 
 collections:
   - label: Pages
-    format: yaml-frontmatter
-    extension: md
     name: pages
     files:
       - label: Home
         name: home
-        file: src/content/about.yml
+        file: src/content/about.md
         fields:
           - label: Tagline
             name: tagline
