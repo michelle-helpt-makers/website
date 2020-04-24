@@ -1,10 +1,14 @@
 module.exports = {
   plugins: [
+    'gatsby-plugin-typescript',
+    'gatsby-plugin-netlify-cms',
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'images',
-        path: `${__dirname}/src/images`,
+        name: 'uploads',
+        path: `${__dirname}/static/uploads`,
       },
     },
     {
@@ -14,10 +18,11 @@ module.exports = {
         path: `${__dirname}/src/content`,
       },
     },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    'gatsby-plugin-typescript',
-    'gatsby-plugin-netlify-cms',
-    'gatsby-transformer-remark',
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: ['gatsby-remark-relative-images'],
+      },
+    },
   ],
 };

@@ -2,17 +2,70 @@ backend:
   name: github
   repo: michelle-helpt-makers/website
 
-media_folder: static/assets
-public_folder: /assets
+media_folder: static/uploads
+public_folder: /uploads
 
 collections:
+  - label: Algemeen
+    name: general
+    files:
+      - label: Contactgegevens
+        name: contactInfo
+        file: src/content/contact-info.md
+        fields:
+          - label: Email
+            name: email
+            widget: string
+          - label: Telefoon
+            name: phone
+            widget: string
   - label: Pages
     name: pages
     files:
       - label: Home
         name: home
-        file: src/content/about.md
+        file: src/content/home.md
         fields:
+          - name: name
+            widget: hidden
+            default: home
+          - label: Afbeelding
+            name: image
+            widget: image
           - label: Tagline
             name: tagline
             widget: markdown
+      - label: About
+        name: about
+        file: src/content/about.md
+        fields:
+          - name: name
+            widget: hidden
+            default: about
+          - label: Titel
+            name: title
+            widget: string
+            default: About
+          - label: Afbeelding
+            name: image
+            widget: image
+          - label: Inleiding
+            name: foreword
+            widget: markdown
+          - label: Inhoud
+            name: body
+            widget: markdown
+      - label: Contact
+        name: contact
+        file: src/content/contact.md
+        fields:
+          - name: name
+            widget: hidden
+            default: contact
+          - label: Titel
+            name: title
+            widget: string
+            default: contact
+          - label: Tekst
+            name: body
+            widget: text
