@@ -26,7 +26,8 @@ collections:
         name: home
         file: src/content/home.md
         fields:
-          - name: name
+          - label: Name
+            name: fff
             widget: hidden
             default: home
           - label: Afbeelding
@@ -39,7 +40,8 @@ collections:
         name: about
         file: src/content/about.md
         fields:
-          - name: name
+          - label: Name
+            name: name
             widget: hidden
             default: about
           - label: Titel
@@ -59,7 +61,8 @@ collections:
         name: contact
         file: src/content/contact.md
         fields:
-          - name: name
+          - label: Name
+            name: name
             widget: hidden
             default: contact
           - label: Titel
