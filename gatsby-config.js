@@ -24,5 +24,6 @@ module.exports = {
         plugins: ['gatsby-remark-relative-images'],
       },
     },
+    'gatsby-plugin-styled-components',
   ],
 };
