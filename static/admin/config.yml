@@ -1,5 +1,18 @@
 backend:
   name: github
   repo: michelle-helpt-makers/website
+
 media_folder: static/assets
 public_folder: /assets
+
+collections:
+  - label: Pages
+    name: pages
+    files:
+      - label: Home
+        name: home
+        file: src/content/about.yml
+        fields:
+          - label: Tagline
+            name: tagline
+            widget: markdown
