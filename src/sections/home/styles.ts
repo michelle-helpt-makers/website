@@ -1,9 +1,15 @@
 import styled from 'styled-components';
+import { down } from 'styled-breakpoints';
 
 export const Wrapper = styled.div`
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
+  justify-content: center;
+
+  ${down('tablet')} {
+    display: block;
+  }
 `;
 
 export const HomeText = styled.div`
@@ -24,6 +30,10 @@ export const ImageWrapper = styled.div`
   box-sizing: border-box;
   flex: 4;
   padding: 0 34px 17px 0;
+
+  ${down('tablet')} {
+    padding: 0;
+  }
 `;
 
 export const Spacer = styled.div`

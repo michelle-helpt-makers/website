@@ -1,7 +1,7 @@
 import { graphql } from 'gatsby';
+import { GatsbySeo } from 'gatsby-plugin-next-seo';
 import React from 'react';
 
-import Layout from '../components/layout';
 import Home from '../sections/home';
 
 interface Props {
@@ -26,9 +26,13 @@ const IndexPage = ({ data }: Props) => {
   const imageFluid = data.markdownRemark.frontmatter.image.childImageSharp.fluid;
 
   return (
-    <Layout>
+    <>
+      <GatsbySeo
+        title="Home"
+        description="Ik ben Michelle. Mijn doel is om jou als maker achter het stuur te zetten van je eigen carrière."
+      />
       <Home imageFluid={imageFluid} taglineHtml={taglineHtml} />
-    </Layout>
+    </>
   );
 };
 
