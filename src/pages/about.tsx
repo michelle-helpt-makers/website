@@ -27,7 +27,7 @@ const AboutPage = ({ data }: Props) => {
 
   return (
     <>
-      <GatsbySeo title="about" />
+      <GatsbySeo title="About" />
       <About foreword={foreword} html={html} imageFluid={imageFluid} />
     </>
   );

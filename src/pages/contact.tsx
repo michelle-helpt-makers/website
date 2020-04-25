@@ -28,7 +28,7 @@ const ContactPage = ({ data }: Props) => {
 
   return (
     <>
-      <GatsbySeo title="contact" />
+      <GatsbySeo title="Contact" />
       <Contact email={email} phone={phone} title={title} html={html} />
     </>
   );
