@@ -1,7 +1,7 @@
 ---
 tagline: bla
 title: About
-image: /uploads/michelle-helpt-makers-5.png
+image: /uploads/michelle-helpt-makers-2.png
 foreword: >-
   Het creatief ondernemerschap is voornamelijk een lone-wolf business. Maar ik
   geloof erin dat we samen meer weten. We hebben allemaal baat bij een
