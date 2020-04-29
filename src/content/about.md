@@ -13,7 +13,7 @@ Mijn naam is Michelle en zelf ben ik maker. Onder de naam [MILA](https://open.sp
 
 Tussen het eerste idee en het loslaten van je kunst in de wereld moeten er veel keuzes worden gemaakt.
 
-Om dit proces voor mijzelf te optimaliseren heb ik research gedaan naar alle aspecten die te maken hebben met het ondernemers- & makerschap. Van de vraag **'Hoe blijf ik gemotiveerd?'** tot de vraag **'Hoe bereik ik mijn publiek?*'****.*
+Om dit proces voor mijzelf te optimaliseren heb ik research gedaan naar alle aspecten die te maken hebben met het ondernemers- & makerschap. Van de vraag **'Hoe blijf ik gemotiveerd?'** tot de vraag **'Hoe bereik ik mijn publiek?*'.***
 
 Mijn onderzoek heeft geleid tot veel ontdekkingen op het vlak van **zelfmanagement en ondernemen als maker**. Omdat ik merk dat veel van ons makers behoefte hebben aan een spar-partner of teammaatje voor hun eigen onderneming, ben ik Michelle Helpt Makers begonnen.\
 Door middel van **één-op-één gesprekken** help ik nu andere kunstenaars, artiesten, ontwerpers en ander soort makers.
