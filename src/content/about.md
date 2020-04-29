@@ -18,7 +18,7 @@ Tussen het eerste idee en het loslaten van je kunst in de wereld moeten er veel 
 Om dit proces voor mijzelf te optimaliseren heb ik research gedaan naar alle aspecten die te maken hebben met het ondernemers- & makerschap. Van de vraag **'Hoe blijf ik gemotiveerd?'** tot de vraag **'Hoe bereik ik mijn publiek?*'****.*
 
 Mijn onderzoek heeft geleid tot veel ontdekkingen op het vlak van **zelfmanagement en ondernemen als maker**. Omdat ik merk dat veel van ons makers behoefte hebben aan een spar-partner of teammaatje voor hun eigen onderneming, ben ik Michelle Helpt Makers begonnen.\
-Door middel van **een-op-een gesprekken** help ik nu andere kunstenaars, artiesten, ontwerpers en ander soort makers.
+Door middel van **één-op-één gesprekken** help ik nu andere kunstenaars, artiesten, ontwerpers en ander soort makers.
 
 Samen onderzoeken we wat jouw doelen zijn. Van daaruit bepalen we *wat jij nodig hebt* om jouw ideeën om te zetten in daden. Ik help je bij het vinden, het plannen en het monitoren van de uitkomsten. Samen houden we het overzicht.
 
