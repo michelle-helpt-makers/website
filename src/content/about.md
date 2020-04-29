@@ -11,7 +11,7 @@ foreword: >-
 ---
 **Hallo daar,**
 
-Mijn naam is Michelle en zelf ben ik maker. Onder de naam [MILA](https://open.spotify.com/artist/6NMmrANg6Cn3HAWo6SuR4o?si=5jLiCqHBS2iQGLD8dXyIRg) produceer ik en breng ik zelf mijn muziek uit. Daar komt een hoop bij kijken.\
+Mijn naam is Michelle en zelf ben ik maker. Onder de naam [MILA](https://open.spotify.com/artist/6NMmrANg6Cn3HAWo6SuR4o?si=5jLiCqHBS2iQGLD8dXyIRg) produceer ik en breng ik muziek uit. Daar komt een hoop bij kijken.\
 Tussen het eerste idee en het loslaten van je kunst in de wereld moeten er veel keuzes worden gemaakt.
 
 Om dit proces voor mijzelf te optimaliseren heb ik research gedaan naar alle aspecten die te maken hebben met het ondernemers- & makerschap. Van de vraag *'***Hoe blijf ik gemotiveerd?***'* tot de vraag '**Hoe bereik ik mijn publiek?***'.*
