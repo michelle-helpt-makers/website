@@ -2,12 +2,10 @@
 tagline: bla
 title: About
 image: /uploads/michelle-helpt-makers-2.png
-foreword: >-
-  Het creatief ondernemerschap is voornamelijk een lone-wolf business. Maar ik
-  geloof erin dat we samen meer weten. We hebben allemaal baat bij een
-  sparpartner. Iemand die meedenkt over je mogelijkheden en jouw visie kent. \
-
-  Een teammaatje. En dat ben ik graag.
+foreword: Het creatief ondernemerschap is voornamelijk een lone-wolf business.
+  Maar ik geloof erin dat we samen meer weten. We hebben allemaal baat bij een
+  sparpartner. Iemand die meedenkt over je mogelijkheden en jouw visie kent. Een
+  teammaatje. En dat ben ik graag.
 ---
 **Hallo daar,**
 
