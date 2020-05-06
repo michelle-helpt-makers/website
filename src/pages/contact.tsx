@@ -15,6 +15,7 @@ interface Props {
     contactInfo: {
       frontmatter: {
         email: string;
+        instagram: string;
         phone: string;
       };
     };
@@ -24,12 +25,12 @@ interface Props {
 const ContactPage = ({ data }: Props) => {
   const { title } = data.page.frontmatter;
   const { html } = data.page;
-  const { email, phone } = data.contactInfo.frontmatter;
+  const { email, instagram, phone } = data.contactInfo.frontmatter;
 
   return (
     <>
       <GatsbySeo title="Contact" />
-      <Contact email={email} phone={phone} title={title} html={html} />
+      <Contact email={email} instagram={instagram} phone={phone} title={title} html={html} />
     </>
   );
 };
@@ -44,6 +45,7 @@ export const query = graphql`
     }
     contactInfo: markdownRemark(fileAbsolutePath: {regex: "/contact-info\\.md$/"}) {
       frontmatter {
+        instagram
         email
         phone
       }

@@ -19,6 +19,9 @@ collections:
           - label: Telefoon
             name: phone
             widget: string
+          - label: Instagram
+            name: instagram
+            widget: string
   - label: Pages
     name: pages
     files:

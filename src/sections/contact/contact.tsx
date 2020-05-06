@@ -1,9 +1,12 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 import React from 'react';
 import styled from 'styled-components';
 import { down } from 'styled-breakpoints';
 
 interface Props {
   email: string;
+  instagram: string;
   html: string;
   phone: string;
   title: string;
@@ -40,10 +43,10 @@ const ContactInfo = styled.div`
   line-height: 1.3664;
   display: flex;
   flex-direction: row nowrap;
-  justify-content: space-around;
+  justify-content: space-between;
 
   ${down('tablet')} {
-    display: block;
+    flex-direction: column;
     text-align: center;
 
     a {
@@ -53,12 +56,30 @@ const ContactInfo = styled.div`
   }
 `;
 
-const Contact = ({ email, phone, html }: Props) => {
+const Socials = styled.ul`
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  ${down('tablet')} {
+    order: 1;
+  }
+`;
+
+const Contact = ({ email, instagram, phone, html }: Props) => {
   return (
     <Wrapper>
       <Body dangerouslySetInnerHTML={{ __html: html }} />
       <ContactInfo>
-        <a href={`mailto:${email}`}>{email}</a> <a href={`tel:${phone}`}>{phone}</a>
+        <a href={`mailto:${email}`}>{email}</a>
+        <Socials>
+          <li>
+            <a title="Instagram" href={instagram}>
+              <FontAwesomeIcon icon={faInstagram} />
+            </a>
+          </li>
+        </Socials>
+        <a href={`tel:${phone}`}>{phone}</a>
       </ContactInfo>
     </Wrapper>
   );

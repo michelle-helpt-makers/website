@@ -1,7 +1,20 @@
+/* eslint-disable @typescript-eslint/camelcase */
 const path = require('path');
 
 module.exports = {
   plugins: [
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        background_color: '#fff',
+        display: 'minimal-ui',
+        icon: 'src/favicon.png',
+        name: 'Michelle Helpt Makers',
+        short_name: 'MichelleHelptMakers',
+        start_url: '/',
+        theme_color: '#545459',
+      },
+    },
     'gatsby-plugin-typescript',
     'gatsby-plugin-netlify-cms',
     'gatsby-transformer-sharp',
