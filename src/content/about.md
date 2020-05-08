@@ -23,7 +23,7 @@ Samen onderzoeken we wat jouw doelen zijn. Van daaruit bepalen we *wat jij nodig
 \
 **Wil je weten hoe precies?**
 
-Zelf heb ik ook hulp van makers-vrienden om mij heen. Lisa Lukaszczyk ([Luka](http://lisaluka.com/)) bijvoorbeeld, is mijn wekelijkse spar-partner. Zij ontwikkelde een **methode om je missie & visie te vinden**. Als *ondernemer* en als *maker*. Een methode om je doelen en je mogelijkheden in kaart te brengen. Haar methode heeft mij en andere makers ook geholpen, dus gebruik ik hem als leidraad bij het helpen van andere makers.
+Zelf heb ik ook hulp van makers-vrienden om mij heen. Lisa Lukaszczyk ([Luka](http://lisaluka.com/)) bijvoorbeeld, is mijn wekelijkse spar-partner. Zij ontwikkelde een **methode om je missie & visie te vinden**. Als *ondernemer* en als *maker*. Een methode om je doelen en je mogelijkheden in kaart te brengen. Haar methode heeft mij en andere makers ook geholpen, dus gebruik ik hem als leidraad.
 
 Aansluitend ontwikkelde ik, speciaal voor de chaoot in ons, een **planningssysteem voor makers**. Een waar zelfs de meest ervaren uitsteller enthousiast van wordt. Zodat je je gevonden doelen kunt realiseren op een zowel flexibele als productieve manier.
 
