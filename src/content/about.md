@@ -33,4 +33,6 @@ En zo ontstaat er een houdbare manier van werken.
 
 **Nieuwsgierig geworden?**
 
-Ik ook naar jouw verhaal. Stuur je me een berichtje? Wie weet ben ik wel je nieuwe teammaatje. Zodat jij kunt blijven doen waar jij het beste in bent: *Maken*.
+Ik ook naar jouw verhaal. Stuur je me een berichtje? Wie weet ben ik wel je nieuwe teammaatje. Zodat jij kunt blijven doen waar jij het beste in bent: *Maken*.\
+\
+Je kunt mij nu ook op Spotify horen vertellen over hoe ik makers help in [de aflevering van De Makers podcast](https://open.spotify.com/episode/0OQqEvKsk9PrEacVnqzO22?si=NaW72t_TQwCoaU1h4jqcIQ) van Dide Vonk waarin ik te gast was.
