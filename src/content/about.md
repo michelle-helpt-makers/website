@@ -9,7 +9,7 @@ foreword: Het creatief ondernemerschap is voornamelijk een lone-wolf business.
 ---
 **Hallo daar,**
 
-Mijn naam is Michelle en zelf ben ik maker. Onder de naam [MILA](https://open.spotify.com/artist/6NMmrANg6Cn3HAWo6SuR4o?si=5jLiCqHBS2iQGLD8dXyIRg) produceer ik en breng ik muziek uit. Daar komt een hoop bij kijken. 
+Mijn naam is Michelle en zelf ben ik maker. Onder de naam [MILA](https://www.milamusic.nl/) produceer ik en breng ik muziek uit. Daar komt een hoop bij kijken. 
 
 Tussen het eerste idee en het loslaten van je kunst in de wereld moeten er veel keuzes worden gemaakt.
 
